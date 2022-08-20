@@ -1,19 +1,17 @@
-# Josantonius GitHub Pages
+# Josantonius's repository demos
 
 [English version](/README.md)
 
-## Repositorios
-
-### html-language-dropdown
+## js-language-dropdown
 
 Menú desplegable de idiomas para Materialize y Bootstrap framework.
 
-[Repositorio](https://github.com/josantonius/html-language-dropdown) |
-[Materialize Demo](https://josantonius.github.io/html-language-dropdown/materialize.html) |
-[Bootstrap 3 Demo](https://josantonius.github.io/html-language-dropdown/bootstrap-3.x.html) |
-[Bootstrap 4 Demo](https://josantonius.github.io/html-language-dropdown/bootstrap-4.x.html)
+[Repositorio](https://github.com/josantonius/js-language-dropdown) |
+[Materialize Demo](https://josantonius.github.io/js-language-dropdown/materialize.html) |
+[Bootstrap 3 Demo](https://josantonius.github.io/js-language-dropdown/bootstrap-3.x.html) |
+[Bootstrap 4 Demo](https://josantonius.github.io/js-language-dropdown/bootstrap-4.x.html)
 
-### vue-draggable-tags
+## vue-draggable-tags
 
 Arrastrar, soltar y ordenar etiquetas con Vue.js.
 
